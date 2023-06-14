@@ -1,2 +1,2 @@
-# My first Python Learning Basic code
-1.Here we can learn basic python code.
+# My first Basic Python Learning 
+1. Here we can learn basic Python code.
